@@ -1,11 +1,4 @@
-## Discord bot website Template
+## Discord bot Website
 
-It is free to use & open source by real owner. 
-
-### Steps to run:
-
-Clone this repository (`git clone https://github.com/Drix10/discord-bot-web.git`)
-
-Edit bot name, commands, links according to your needs
-
-Run the website in your web host, visit it through the ip:port of your host
+<a class="btn btn-primary" href="https://discord.com/api/oauth2/authorize?client_id=1159398827690819637&permissions=8&scope=bot" target="_none" role="button"><i
+                  class="fab fa-discord"></i> Add to server</a>
